@@ -1,0 +1,15 @@
+* {
+ box-sizing: border-box;                        // Include padding and border in box size.
+}
+
+html {
+  height: 100%;                                 // Page should fill the vertical height of browser window.
+}
+
+body {
+	padding-top:	50px;
+	padding-bottom:	20px;
+  background-attachment: fixed;                 // Background images don't scroll with page.
+}
+
+/* -- LAYOUT ------------------------------------------------------------------------------------------------------- */
